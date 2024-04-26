@@ -1,4 +1,4 @@
-#Inspiration: 
+# Project Name: Predictive Model for Booking Cancellations
 
 The inspiration behind creating a predictive model for hotel booking cancellations was to help hotel managers better plan their resources and staffing. By predicting which bookings are likely to be cancelled, hotel managers can optimize their resources and offer incentives to guests who are likely to cancel in order to retain their business.
 
